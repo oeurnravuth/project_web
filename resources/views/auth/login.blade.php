@@ -56,4 +56,7 @@
             </div>
         </div>
     </div>
+    <script>
+        alert('test');
+    </script>
 @endsection
