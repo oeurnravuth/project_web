@@ -1,0 +1,2 @@
+
+$('.imageUploadPreview').attr('src',imagePath);

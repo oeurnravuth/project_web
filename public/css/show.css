@@ -1,0 +1,11 @@
+.content-view {
+    background: #FAFAFA;
+    padding: 20px 15px;
+    min-height: 230px;
+    font-size: 13.5px;
+}
+
+.title-view {
+    margin-bottom: 10px;
+    font-weight: bold;
+}

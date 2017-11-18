@@ -1,0 +1,40 @@
+
+input[type=checkbox]{
+    cursor: pointer;
+}
+input[type=checkbox]:checked:before {
+    content: "\2713";
+    background: #fffed5;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .2);
+    font-size: 20px;
+    text-align: center;
+    line-height: 15px;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    color: #00904f;
+    border: 1px solid #cdcdcd;
+    border-radius: 4px;
+    margin: -3px -3px;
+    text-indent: 1px;
+}
+input[type=checkbox]:before {
+    content: "\202A";
+    background: #ffffff;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .2);
+    font-size: 15px;
+    text-align: center;
+    line-height: 15px;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    color: #00904f;
+    border: 1px solid #cdcdcd;
+    border-radius: 4px;
+    margin: -3px -3px;
+    text-indent: 1px;
+}
+
+.input-file-upload {
+    margin-bottom: 20px;
+}

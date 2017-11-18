@@ -1,0 +1,55 @@
+.table-img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+
+select.myselect-dropdown {
+    width: 50%;
+    height: 25px;
+    margin-bottom: 15px;
+    border-color: #ddd;
+}
+
+pre {
+    display: none;
+}
+
+.setting-dropdown > li {
+    line-height: 20px;
+    margin-top: 5px;
+}
+
+.list-deactive {
+    background-color: rgba(245, 235, 15, 0.33) !important;
+    border-color: rgba(243,156,18,.88);
+}
+
+.wrap-image-upload > img {
+    height: auto;
+}
+
+.wrap-image-upload {
+    padding-bottom: 20px;
+    text-align: left;
+}
+
+.show-alert{
+    max-width: 400px;
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.required {
+    color: red;
+}
+
+span.span-record {
+    font-size: 12px;
+}
+
+.span-author {
+    margin-left: 10px;
+}
